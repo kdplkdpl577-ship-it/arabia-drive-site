@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kdplkdpl577-ship-it.github.io/arabia-drive-site/sitemap.xml
